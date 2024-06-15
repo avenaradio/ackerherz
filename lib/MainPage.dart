@@ -43,7 +43,7 @@ class _MainPageState extends State<MainPage> {
                     style: TextStyle(
                       color: Colors.deepOrange,
                       fontSize: 18,
-                      fontWeight: FontWeight.bold,
+                      fontWeight: FontWeight.bold, 
                     ),
                   ),
                 if (_link.isNotEmpty)
